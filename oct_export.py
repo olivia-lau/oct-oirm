@@ -9,8 +9,6 @@ from datetime import datetime as dt
 import numpy as np
 import pandas as pd
 import pyautogui
-# from openpyxl import *
-# import xlrd
 from tkinter import *
 import tkinter as tk
 from tkinter import filedialog
